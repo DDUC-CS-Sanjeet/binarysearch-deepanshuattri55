@@ -1,4 +1,5 @@
 #include<iostream>
+#include<algorithm>
 using namespace std;
 
 bool binarySearchReacursive(int* array, int startIndex, int lastIndex, int element)
